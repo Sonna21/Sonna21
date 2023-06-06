@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Sonna21/Sonna21/assets/132158593/22356e8d-5121-4f37-a404-2c48af139d34">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonna21&label=Profile%20views&color=0e75b6&style=flat" alt="sonna21" /> </p>
 
