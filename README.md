@@ -1,4 +1,4 @@
-![logo](https://github.com/Sonna21/Sonna21/blob/main/data%20science%20photo.jpg)
+![logo](https://github.com/Sonna21/Sonna21/blob/main/Photo.jpg)
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
